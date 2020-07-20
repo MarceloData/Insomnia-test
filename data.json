@@ -1,0 +1,51 @@
+{
+    "users": [],
+    "products": [
+        {
+            "title": "Produto 1",
+            "price": 150,
+            "id": 2
+        },
+        {
+            "title": "Produto 1",
+            "price": 150,
+            "id": 3
+        },
+        {
+            "title": "Produto 1",
+            "price": 150,
+            "id": 4
+        },
+        {
+            "title": "Produto 1",
+            "price": 150,
+            "id": 5
+        },
+        {
+            "title": "Produto 1",
+            "price": 150,
+            "id": 6
+        },
+        {
+            "title": "Produto 1",
+            "price": 180,
+            "id": 7
+        },
+        {
+            "title": "Produto 1",
+            "price": "120",
+            "id": 8
+        }
+    ],
+    "orders": [
+        {
+            "date": "2020-07-20T16:38:58.366Z",
+            "id": 1
+        },
+        {
+            "date": "2020-07-20T16:39:34.825Z",
+            "uuid": "862501db-0b48-400b-878d-aea3e6d177bd",
+            "id": 2
+        }
+    ]
+}
